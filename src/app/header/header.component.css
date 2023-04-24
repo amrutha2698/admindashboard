@@ -1,0 +1,13 @@
+.flex-content{
+    width: 100%;
+}
+.flex-content ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+.flex-content ul li{
+list-style: none;
+}
